@@ -26,7 +26,7 @@ Arduino Nano R3                                     * 1
 
 PL9823 RGB Through hole LED 8mm                     * 32
 
-Single Turn Potentiometer- 10k ohms                 * 6
+Single Turn Potentiometer- 200 ohms                 * 6
 
 Female Header 15 Position 1 Row (2.54mm)            * 2
 
