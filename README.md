@@ -40,4 +40,6 @@ Soldering iron (generic)                            * 1
 
 Solder Wire, Lead Free
 
+Please visit https://www.hackster.io/limchengwei/addressable-through-hole-leds-51fb19 for more information about the project.
+
 Thank you [JLCPCB](https://jlcpcb.com/RAT) again for sponsoring this project and please order your PCB at [https://jlcpcb.com/RAT](https://jlcpcb.com/RAT)
