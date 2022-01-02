@@ -12,7 +12,9 @@ Saturation is the grayness of the color, lower means more gray, higher means mor
 
 Value is the brightness of the color, lower means darker, higher means brighter.
 
-There are 2 sets of 8 LEDs on each side of the PCB. Each side is controlled by either only HSV or RGB parameter.
+There are 2 sets of 16 LEDs on each side of the PCB. Each side is controlled by either only HSV or RGB parameter.
+
+Please test the RGB LEDs before soldering. We require 2 RGB LEDs for each test. Connect a capacitor across each RGB LED VDD and GND, and a resistor in series with the VDD. Please refer to the schematic diagram. VDD and GND are to be wired to a 5V power supply. Din connects to the Arduino, Dout connects to the other RGB LED Din.
 
 We are using the FastLED Arduino library for the Arduino Nano board. The HSV and the RGB vary from 0 to 255 for each parameter. The 3362P potentiometers are used to tune the parameters.
 
